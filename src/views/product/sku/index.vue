@@ -1,6 +1,6 @@
 <template>
   <div>
-    <router-view></router-view>
+    <h1>sku 管理</h1>
   </div>
 </template>
 

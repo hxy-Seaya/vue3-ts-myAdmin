@@ -1,6 +1,6 @@
 <template>
   <div>
-    <router-view></router-view>
+    <h1>数据大屏</h1>
   </div>
 </template>
 
